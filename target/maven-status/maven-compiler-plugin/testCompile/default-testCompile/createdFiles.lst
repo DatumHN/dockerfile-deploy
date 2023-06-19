@@ -1,0 +1,5 @@
+dev\snowdrop\example\LocalTest.class
+dev\snowdrop\example\AbstractExampleApplicationTest.class
+dev\snowdrop\example\UnmanagedOpenShiftIT.class
+dev\snowdrop\example\KubernetesIT.class
+dev\snowdrop\example\ManagedOpenShiftIT.class
